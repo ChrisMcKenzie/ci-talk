@@ -1,0 +1,16 @@
+[
+    "index.md",
+    [
+        "ci-intro.md",
+        "ci-quote.md",
+        "ci-benefits.md",
+        "ci-outro.md",
+        "ci-services.md"
+    ],
+    [
+        "wercker-intro.md",
+        "wercker-containers.md",
+        "wercker-steps.md",
+        "wercker-pipelines.md"
+    ]
+]

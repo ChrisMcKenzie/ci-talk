@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "CI and Wercker",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "chrismckenzie",
+    "githubRepository": "ci-talk"
+  }
+}
