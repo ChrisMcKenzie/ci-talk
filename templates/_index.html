@@ -12,9 +12,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
         <link rel="stylesheet" href="bower_components/reveal.js/css/reveal.css">
-    
+
         <link rel="stylesheet" href="css/theme.css" id="theme">
-    
+
 
         <!-- For syntax highlighting -->
         <link rel="stylesheet" href="bower_components/highlightjs/styles/zenburn.css">
@@ -69,6 +69,11 @@
 
             transition: 'slide', // none/fade/slide/convex/concave/zoom
 
+            // Parallax background image
+            parallaxBackgroundImage: 'http://wercker.com/images/header.gif', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
+
+            // Parallax background size
+            parallaxBackgroundSize: '2100px 900px', // CSS syntax, e.g. "2100px 900px"
             // Optional reveal.js plugins
             dependencies: [
               { src: 'bower_components/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },

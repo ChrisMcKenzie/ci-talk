@@ -16,4 +16,10 @@
     "trailing": true,
     "smarttabs": true,
     "white": true
+    "globals": {
+        "document": true,
+        "hljs": true,
+        "Reveal": true,
+        "window": true
+    }
 }
